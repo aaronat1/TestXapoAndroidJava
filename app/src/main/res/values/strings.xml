@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github Trending Android</string>
+    <string name="main_get_repositories">Get repositories</string>
+    <string name="main_error_message">Error loading repositories</string>
+    <string name="detail_created_at">Created at:</string>
+    <string name="detail_updated_at">Upated at:</string>
+    <string name="detail_pushed_at">Pushed at:</string>
+    <string name="detail_score">Score:</string>
+    <string name="detail_watchers">Watchers:</string>
+    <string name="detail_language">Language:</string>
+    <string name="detail_license">License:</string>
+</resources>
